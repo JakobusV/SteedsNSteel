@@ -1,4 +1,4 @@
-package prog;
+package controllers;
 
 public class Main {
 
